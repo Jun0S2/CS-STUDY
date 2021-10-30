@@ -68,7 +68,7 @@ MAC 기법을 이용해 데이터 변조 확인
 
 ## 동작 원리 - HandShake 과정
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e59362f5-1f2a-451b-9efa-f037124c3519/Untitled.png)
+![Untitled](https://images.ctfassets.net/slt3lc6tev37/5aYOr5erfyNBq20X5djTco/3c859532c91f25d961b2884bf521c1eb/tls-ssl-handshake.png)
 
 이미지 출저 : cloudFlare
 
