@@ -1,0 +1,5 @@
+﻿이름,설명
+손실,packet이 손실될 수 있는 문제
+순서바뀜,packet 의 순서가 바뀌는 문제
+Congestion(혼잡),네트워크가 혼잡한 문제
+Overload(과부하),receiver가 overload되는 문제
