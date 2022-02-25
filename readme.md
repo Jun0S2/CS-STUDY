@@ -1,6 +1,6 @@
 # CS 기본 지식
 
-## CS 스터디
+## 💻 CS 스터디
 
 <details>
 <summary> 스터디 일정 및 정보 상세보기
@@ -9,7 +9,7 @@
 <!-- summary 아래 한칸 공백 -->
 <br/>
 
-# 💻 CS 스터디
+# CS 스터디
 
 ## 📢SSAFY 6기 대전 3반 CS 스터디 2조에서 공부한 기록입니다📢
 
@@ -70,11 +70,32 @@
 
 </details>
 
-<br/>
 <!-- end of details -->
 
 ## 📚 C++ 스터디
 
+<details>
+<summary> C++ 기본 지식 상세 보기
+</summary>
+
+<!-- summary 아래 한칸 공백 -->
 <br/>
 
+## 📅 기록 📅
+
+</details>
+
 ## 💾 반도체 기본 지식
+
+<details>
+<summary> 반도체 기본 지식 상세 보기
+</summary>
+
+<!-- summary 아래 한칸 공백 -->
+<br/>
+
+<br/>
+
+## 📅 기록 📅
+
+</details>
